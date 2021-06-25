@@ -1,4 +1,4 @@
-# Lab 4: Basemaps and Data: ![Deployment Here](https://hynesconnor.github.io/basemaps/)
+# Lab 4: Basemaps and Data: [Deployment Here](https://hynesconnor.github.io/basemaps/)
 #### Connor Hynes
 ---
 ### Tile 1 - Modified Basemap
