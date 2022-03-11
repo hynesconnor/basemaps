@@ -1,6 +1,4 @@
 # Lab 4: Basemaps and Data: [Deployment Here](https://hynesconnor.github.io/basemaps/)
-#### Connor Hynes
----
 ### Tile 1 - Modified Basemap
 ![Map](img/basemap.png "Modified Basemap")
 - This modified basemap highlights roadways in Seattle as well as displays name of businesses when zooming in to show the names restaurants that are part of the data.
